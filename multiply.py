@@ -1,1 +1,2 @@
-print("hi")
+def multiply(x, y):
+    return x*y
