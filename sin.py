@@ -1,8 +1,4 @@
-def sin( x )
-
-  x = int ( input("enter your number:))
-                  
-  return(sin(x))
-
-sin( 30 )
+import math
+def sin(x):                
+  return(math.sin(x))
   
